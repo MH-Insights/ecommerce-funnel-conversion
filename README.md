@@ -1,13 +1,31 @@
-# Strategic Funnel Analysis | Ecommerce Optimization
+## Strategic Funnel Analysis for Ecommerce Growth Optimization
 
-This notebook analyzes user behavior through a multi-step funnel — surfacing where drop-offs occur, which segments convert best, and high-leverage opportunities for growth.
+This notebook analyzes user behavior across a multi-step ecommerce funnel to identify:
 
-## Highlights
-- Funnel drop-off visualization
-- Cart abandonment diagnosis
-- Segment-level insights by device & gender
-- PM-aligned takeaways & sprint recommendations
+- Where users drop off  
+- Which segments convert best  
+- High-leverage opportunities to improve UX and drive revenue  
 
-## Intended audience: Product and growth teams improving ecom UX and conversion
+---
 
-Built with Python, pandas, seaborn, matplotlib
+### Highlights
+
+- Visual funnel breakdown with key drop-off points  
+- Deep-dive into cart abandonment (92% drop at payment page)  
+- Segment-level performance by device & gender  
+- Actionable insights framed for PMs & growth teams  
+- Sprint-ready recommendations to test & implement  
+
+---
+
+### Who This Is For
+
+Product, growth, and UX teams looking to:
+- Increase conversion rate  
+- Prioritize high-ROI experiments  
+- Diagnose friction in the checkout journey  
+- Make data-driven design decisions  
+
+---
+
+*Built using Python, pandas, seaborn, and matplotlib*
