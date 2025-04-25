@@ -6,8 +6,6 @@ This notebook analyzes user behavior across a multi-step ecommerce funnel to ide
 - Which segments convert best  
 - High-leverage opportunities to improve UX and drive revenue  
 
----
-
 ### Highlights
 
 - Visual funnel breakdown with key drop-off points  
@@ -15,8 +13,6 @@ This notebook analyzes user behavior across a multi-step ecommerce funnel to ide
 - Segment-level performance by device & gender  
 - Actionable insights framed for PMs & growth teams  
 - Sprint-ready recommendations to test & implement  
-
----
 
 ### Who This Is For
 
@@ -26,6 +22,4 @@ Product, growth, and UX teams looking to:
 - Diagnose friction in the checkout journey  
 - Make data-driven design decisions  
 
----
-
-*Built using Python, pandas, seaborn, and matplotlib*
+Built using Python, pandas, seaborn, and matplotlib
